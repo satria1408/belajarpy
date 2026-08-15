@@ -1,30 +1,39 @@
-# Progress Belajar Python (From Zero to Data Analysis)
+# Data Analysis Mastery Roadmap (Tier-Based)
 
 Student: Satria Rangga Wardana  
 Repository: satria1408/belajarpy  
-Goal: Memahami Fondasi Python & Data Analysis secara Linear & Deep (Tanpa Loncat)
+Goal: Menguasai Data Analysis dari Fondasi Dasar hingga Level Senior
 
 ---
 
 ## Tracker Kemajuan Modul
 
-### FASE 1: Dasar Logika & Sintaks Murni Python
-- [ ] Modul 1: Variabel, Tipe Data Primitif (int, float, str, bool) & Type Casting
-- [ ] Modul 2: Manipulasi String, Slicing & f-string
-- [ ] Modul 3: Logika Pengondisian (if, elif, else, operator logika)
-- [ ] Modul 4: Perulangan (for loop, while loop, break, continue)
+### TIER 1: Beginner (Fondasi Dasar & Data Handling)
+- [x] Modul 1: Variabel, Tipe Data Primitif & Type Casting
+- [x] Modul 2: Manipulasi String, Slicing & f-string
+- [ ] Modul 3: Logika Pengondisian & Loop pada Data
+- [ ] Modul 4: Struktur Data Python (List, Dictionary, Tuple, Set)
+- [ ] Modul 5: Pengenalan Pandas & DataFrame Dasar (Load & Select Data)
 
-### FASE 2: Struktur Data & Fungsi
-- [ ] Modul 5: Koleksi Data (List, Dictionary, Tuple, Set) & Comprehension
-- [ ] Modul 6: Fungsi (def), Parameter, Return & Lambda
-- [ ] Modul 7: Handling Error (try-except) & File Native (open())
+### TIER 2: Intermediate (Data Wrangling & Cleaning)
+- [ ] Modul 6: Aggregation & Grouping (.groupby(), .agg())
+- [ ] Modul 7: Data Reshaping & Pivoting (.pivot_table(), melt, stack)
+- [ ] Modul 8: Pembersihan Data Kotor (Missing Values, Duplicates, Outliers)
+- [ ] Modul 9: Penggabungan Data (Merge, Join, Concat)
+- [ ] Modul 10: Pengolahan Tipe Data Time-Series & Text di Pandas
 
-### FASE 3: Data Analysis Fundamentals
-- [ ] Modul 8: NumPy Array Basics
-- [ ] Modul 9: Pandas Foundations (Series, DataFrame, .loc vs .iloc)
-- [ ] Modul 10: Data Cleaning & Wrangling (groupby, apply, pivot_table)
+### TIER 3: Advanced (EDA, Visualisasi & Statistik Deskriptif)
+- [ ] Modul 11: Exploratory Data Analysis (EDA) & Statistik Deskriptif (NumPy/Pandas)
+- [ ] Modul 12: Visualisasi Data Lanjutan (Matplotlib, Seaborn & Custom Styling)
+- [ ] Modul 13: Analisis Tren, Korelasi, dan Distribusi Data
+- [ ] Modul 14: Automated Reporting & Exporting Data Hasil Olahan
+
+### TIER 4: Senior / Specialist (Business Insight & Industry Project)
+- [ ] Modul 15: Cohort Analysis & Customer Lifetime Value (CLV) Concept
+- [ ] Modul 16: RFM Analysis (Recency, Frequency, Monetary) untuk Segmentasi
+- [ ] Modul 17: End-to-End Capstone Project (Raw Dataset -> EDA -> Business Dashboard)
 
 ---
 
 ## Catatan Evaluasi & Error Log
-(Tempat mencatat error penting yang pernah dialami dan cara penyelesaiannya)
+(Tempat mencatat error penting dan penyelesaiannya selama proses belajar)
