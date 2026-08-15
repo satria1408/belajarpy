@@ -11,7 +11,7 @@ Goal: Menguasai Data Analysis dari Fondasi Dasar hingga Level Senior
 ### TIER 1: Beginner (Fondasi Dasar & Data Handling)
 - [x] Modul 1: Variabel, Tipe Data Primitif & Type Casting
 - [x] Modul 2: Manipulasi String, Slicing & f-string
-- [ ] Modul 3: Logika Pengondisian & Loop pada Data
+- [x] Modul 3: Logika Pengondisian & Loop pada Data
 - [ ] Modul 4: Struktur Data Python (List, Dictionary, Tuple, Set)
 - [ ] Modul 5: Pengenalan Pandas & DataFrame Dasar (Load & Select Data)
 
